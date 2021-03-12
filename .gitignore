@@ -1,3 +1,14 @@
+package-lock.json
+**/*/package-lock.json
+
+**/log/
+**/node_modules/
+**/.vscode/
+**/out/
+**/docs/
+
+ecosystem.config.js
+
 # Logs
 logs
 *.log
